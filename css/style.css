@@ -1,0 +1,11 @@
+body,
+.root,
+.main-wrapper {
+    min-height: 100vh;
+}
+
+.main-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
